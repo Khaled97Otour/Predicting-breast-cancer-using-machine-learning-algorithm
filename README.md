@@ -27,6 +27,7 @@ the data contain the following feature :
 - fractal_dimension_mean
 
 after ploting the dataset we find some outliners we have to deal with to make sure that we receive the best results
+![download](https://user-images.githubusercontent.com/93203143/182454765-41f7c906-d952-4758-bc83-e7db966f0f64.png)
 
 # building model:
 
