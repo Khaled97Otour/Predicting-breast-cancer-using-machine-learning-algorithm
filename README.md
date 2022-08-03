@@ -1,7 +1,7 @@
 # Predicting-breast-cancer-using-machine-learning-algorithm
 
 # Breast Cancer prediction:
-I downliad the dataset from https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
+I download the dataset from https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
 Objective:
 - Understand the Dataset & cleanup (We use the only the feature_mean for our model).
